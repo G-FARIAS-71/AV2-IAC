@@ -1,9 +1,9 @@
-# <div align="center">AV2 DE INTELIGÊNCIA ARTIFICIAL COMPUTACIONAL</div>
+# `<div align="center">`AV2 DE INTELIGÊNCIA ARTIFICIAL COMPUTACIONAL`</div>`
 
 ## Equipe
 
 - Guilherme de Farias Loureiro (matrícula 2214635)
-- Tiago Farias (pf inserir nome completo e matrícula na mesma formatação que eu inseri)
+- Tiago Farias Rodrigues (matrícula 1914187)
 
 ## Professor: Paulo Cirilo Barboza Sousa
 
@@ -29,3 +29,7 @@
 [dados](dados): Contém os dados de treinamento e validação dos modelos implementados em [av2.ipynb](av2.ipynb)
 
 [treinamento_aluno](treinamento_aluno): atividades extras que ajudaram no desenvolvimento de [av2.ipynb](av2.ipynb)
+
+## Relatório
+
+[Clique aqui para ler o relatório](relatorio.pdf)
